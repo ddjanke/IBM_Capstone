@@ -1,0 +1,91 @@
+,SystemName,SchoolName,Cluster,Street,City,Zip_Code,Grade,SingleScore,Unnamed: 0,Latitude,Longitude,crime_count
+7,Atlanta Public Schools,Brandon Elementary School,E,2741 Howell Mill Road NW,Atlanta,30327,A,96.5,102,33.838648,-84.422438,167.0
+8,Atlanta Public Schools,Jackson Elementary School,E,1325 Mount Paran Road,Atlanta,30327,A,96.4,103,33.8635586,-84.43998979999998,92.0
+9,Atlanta Public Schools,Mary Lin Elementary School,E,586 Candler Park Drive NE,Atlanta,30307,A,93.1,104,33.76952844524761,-84.33943998713966,1245.0
+30,Fulton County,Hapeville Elementary School,E,3440 N Fulton Ave,Hapeville,30354,C,74.1,393,33.660355,-84.4076072,120.0
+33,Fulton County,Hamilton E. Holmes Elementary School,E,2301 Connally Dr,East Point,30344,D,63.3,423,33.696071,-84.462994,360.0
+34,Fulton County,Hapeville Charter Middle School,M,3535 South Fulton Avenue,Hapeville,30354,D,60.8,427,33.657435,-84.410198,43.0
+35,Fulton County,Tri-Cities High School,H,2575 Harris St,East Point,30344,D,62.6,428,33.6848289,-84.43573549999998,26.0
+36,Fulton County,Paul D. West Middle School,M,2376 Headland Dr,East Point,30344,F,55.4,431,33.690561100000004,-84.466435,387.0
+38,Atlanta Public Schools,Brown Middle School,M,255 James P. Brawley Dr. SW,Atlanta,30314,D,64.3,574,33.749015216216215,-84.412894,2402.0
+39,Atlanta Public Schools,Parkside Elementary School,E,685 Mercer St SE,Atlanta,30312,C,73.0,575,33.73500915,-84.36465517125134,999.0
+40,Atlanta Public Schools,Heritage Academy,E,3500 Villa Cir SE,Atlanta,30354,D,60.4,576,33.65976887784481,-84.3790474805728,270.0
+41,Atlanta Public Schools,Dobbs Elementary School ,E,2025 Jonesboro Rd SE,Atlanta,30315,D,67.9,577,33.69802215,-84.37211644928965,686.0
+42,Atlanta Public Schools,Finch Elementary School,E,1114 Avon Ave SW,Atlanta,30310,D,62.8,578,33.72251385,-84.42442570566186,1324.0
+43,Atlanta Public Schools,KIPP STRIVE Academy,EM,1444 Lucile Ave SW,Atlanta,30310,C,76.8,579,33.74254740816327,-84.43566981632655,1276.0
+44,Atlanta Public Schools,Springdale Park Elementary School,E,1246 Ponce de Leon Ave NE,Atlanta,30306,A,92.4,580,33.775131900000005,-84.34654093458957,1395.0
+45,Atlanta Public Schools,KIPP Vision Academy,EM,660 McWilliams Rd SE,Atlanta,30315,D,65.9,581,33.6887236,-84.3619469,345.0
+46,Atlanta Public Schools,The Kindezi Schools,EM,1890 Detroit Ave NW,Atlanta,30314,C,77.0,582,33.76639975,-84.44883547286855,694.0
+47,Atlanta Public Schools,Long Middle School,M,3200 Latona Dr SW,Atlanta,30354,D,64.6,583,33.667608055555554,-84.39492059259258,446.0
+48,Atlanta Public Schools,Maynard H. Jackson High School ,H,801 Glenwood Ave SE,Atlanta,30316,D,67.4,586,33.7392455,-84.36189931220713,1299.0
+49,Atlanta Public Schools,Sylvan Hills Middle School,M,1461 Sylvan Rd SW,Atlanta,30310,D,65.0,587,33.726448100000006,-84.4181487,1661.0
+50,Atlanta Public Schools,North Atlanta High School,H,4111 Northside Pkwy NW,Atlanta,30327,C,77.1,588,33.8647099,-84.44970359999998,18.0
+51,Atlanta Public Schools,Cascade Elementary School,E,2326 Venetian Dr SW,Atlanta,30311,F,57.4,589,33.71720175,-84.46553092111438,461.0
+52,Atlanta Public Schools,Charles R. Drew Charter School Elementary Academy,E,301 E Lake Blvd SE,Atlanta,30317,B,89.8,590,33.742105400105906,-84.31533663674679,295.0
+53,Atlanta Public Schools,Atlanta Neighborhood Charter School-Middle,M,820 Essie Ave SE,Atlanta,30316,C,71.1,591,33.73207695,-84.35439719367912,677.0
+54,Atlanta Public Schools,KIPP STRIVE Primary School,E,1448 Lucile Ave SW,Atlanta,30310,C,78.7,592,33.742553081632664,-84.43570516326531,1276.0
+55,Atlanta Public Schools,KIPP Vision Primary Academy,E,660 McWilliams Rd SE,Atlanta,30315,F,52.6,593,33.6887236,-84.3619469,345.0
+56,Atlanta Public Schools,KIPP WAYS Primary School,E,350 Temple St NW,Atlanta,30314,F,57.5,594,33.76419320358025,-84.42210510319255,1425.0
+57,Atlanta Public Schools,Young Middle School,M,3116 Benjamin E Mays Dr SW,Atlanta,30311,F,50.2,595,33.7340735,-84.49115499999998,230.0
+58,Atlanta Public Schools,Perkerson Elementary School,E,2040 Brewer Blvd SW,Atlanta,30310,C,72.0,596,33.69888575,-84.41356449999998,711.0
+59,Atlanta Public Schools,Bolton Academy,E,2268 Adams Dr NW,Atlanta,30318,D,67.8,597,33.81757464,-84.45488752,307.0
+60,Atlanta Public Schools,Burgess-Peterson Academy ,E,480 Clifton St SE,Atlanta,30316,B,80.7,599,33.7406619,-84.33159140000002,520.0
+61,Atlanta Public Schools,School of Technology at Carver,H,55 McDonough Blvd SE,Atlanta,30315,D,64.6,600,33.7199236,-84.3861775,1081.0
+63,Atlanta Public Schools,Booker T. Washington High School,H,45 Whitehouse Dr SW,Atlanta,30314,F,56.9,602,33.75406629999999,-84.420035,1962.0
+64,Atlanta Public Schools,The Forrest Hill Academy,MH,2930 Forrest Hills Dr SW,Atlanta,30315,F,17.8,603,33.674303652952744,-84.39928357227937,614.0
+65,Atlanta Public Schools,Atlanta Classical Academy,EMH,3260 Northside Dr NW,Atlanta,30305,C,75.0,604,33.8387633,-84.40818540000002,95.0
+66,Atlanta Public Schools,Atlanta Neighborhood Charter School-Elementary,E,688 Grant St SE,Atlanta,30315,B,88.6,606,33.73566275,-84.37611109999997,1184.0
+67,Atlanta Public Schools,Charles R. Drew Charter School,MH,300 E Lake Blvd SE,Atlanta,30317,B,86.9,608,33.742119,-84.315343,295.0
+68,Atlanta Public Schools,Usher-Collier Elementary School,E,631 Harwell Rd NW,Atlanta,30318,D,62.7,609,33.7725,-84.4938889,559.0
+69,Atlanta Public Schools,KIPP WAYS Academy,EM,350 Temple St NW,Atlanta,30314,C,77.8,610,33.76419320358025,-84.42210510319255,1425.0
+70,City Schools of Decatur,Oakhurst Elementary School,E,175 Mead Rd,Decatur,30030,A,98.2,617,33.76451783838384,-84.30589156565657,139.0
+74,City Schools of Decatur,Winnona Park Elementary School,E,510 Avery St,Decatur,30030,A,97.6,621,33.7650372,-84.2898293,30.0
+91,DeKalb County,Woodward Elementary School,E,3034 Curtis Dr NE,Brookhaven,30319,D,65.1,722,33.84225037352271,-84.33811083052059,108.0
+98,DeKalb County,Fernbank Elementary School,E,157 Heaton Park Dr,Atlanta,30307,D,69.5,729,33.78002923614995,-84.31650378080737,68.0
+107,DeKalb County,Toney Elementary School,E,2701 Oakland Ter,Decatur,30032,F,59.8,746,33.727775,-84.2783,14.0
+109,DeKalb County,Briar Vista Elementary School,E,1131 Briar Vista Ter NE,Atlanta,30324,C,76.0,748,33.81103351111111,-84.33787629999998,306.0
+110,DeKalb County,Cross Keys High School,H,1626 N Druid Hills Rd NE,Atlanta,30319,D,66.6,751,33.84409095885345,-84.3392125881028,146.0
+125,Fulton County,Rise Grammar School,E,2626 Hogan Road,East Point,30344,F,56.2,781,33.67792225,-84.475127375,170.0
+126,Fulton County,Rise Prep School,M,2626 Hogan Road,East Point,30344,D,61.4,782,33.67792225,-84.475127375,170.0
+129,Fulton County,Parklane Elementary School,E,2809 Blount St,East Point,30344,F,48.9,790,33.6784419,-84.4249275,303.0
+134,Fulton County,Asa Hilliard Elementary School,E,3353 Mount Olive Road,East Point,30344,D,67.2,796,33.6645429,-84.4783288,39.0
+135,Atlanta Public Schools,Boyd Elementary School,E,2250 Perry Blvd. NW,Atlanta,30318,D,64.4,849,33.8034389,-84.4602075,450.0
+136,Atlanta Public Schools,Emma Hutchinson Elementary School,E,650 Cleveland Ave SW,Atlanta,30315,D,60.7,850,33.68042929999999,-84.40954295510299,578.0
+137,Atlanta Public Schools,Kimberly Elementary School,E,1090 Windsor St. SW,Atlanta,30310,D,63.0,851,33.725551,-84.398318,1480.0
+138,Atlanta Public Schools,Rivers Elementary School,E,8 Peachtree Battle Ave NW,Atlanta,30305,C,76.5,852,33.819539500000005,-84.39017633454925,701.0
+139,Atlanta Public Schools,Wesley International Academy,EM,211 Memorial Dr SE,Atlanta,30312,B,84.9,854,33.74639365,-84.3810236495428,2934.0
+140,Atlanta Public Schools,Daniel McLaughlin Therrell High School,H,3099 Panther Trail SW,Atlanta,30311,D,61.6,855,33.699190200000004,-84.4900959981126,554.0
+141,Atlanta Public Schools,Corretta Scott King Young Womens' Leadership Academy ,MH,1190 Northwest Drive NW,Atlanta,30318,D,66.7,856,33.7886769,-84.47933855519693,478.0
+142,Atlanta Public Schools,South Atlanta High School,H,800 Hutchens Rd SE,Atlanta,30354,D,66.2,857,33.6713879,-84.36343474991857,248.0
+143,Atlanta Public Schools,G.W. Carver High School,H,55 McDonough Blvd SE,Atlanta,30315,F,40.5,858,33.7199236,-84.3861775,1081.0
+144,Atlanta Public Schools,Hollis Innovation Academy,EM,225 James P Brawley Dr NW,Atlanta,30314,D,62.3,859,33.76089733003031,-84.41254274362603,2092.0
+145,Atlanta Public Schools,Woodson Park Academy,E,20 Evelyn Way NW,Atlanta,30318,F,58.6,860,33.7719138,-84.44404838304438,611.0
+146,Atlanta Public Schools,Tuskegee Airmen Global Academy,E,1654 S Alvarado Terrace SW,Atlanta,30311,D,65.1,861,33.73100285,-84.44177154992747,1067.0
+147,Atlanta Public Schools,The Kindezi School At Old Fourth Ward,EM,386 Pine Street NE,Atlanta,30308,C,70.3,862,33.76776740409436,-84.3745106171186,4073.0
+148,Atlanta Public Schools,John Lewis Invictus Academy,M,1890 Donald Lee Hollowell Pkwy NW,Atlanta,30318,F,53.7,863,33.77519360888431,-84.44768204890215,583.0
+149,Atlanta Public Schools,Garden Hills Elementary School,E,285 Sheridan Dr NE,Atlanta,30305,C,72.0,864,33.8317808,-84.37874599999998,1578.0
+150,Atlanta Public Schools,Samuel M. Inman Middle School,M,774 Virginia Ave NE,Atlanta,30306,B,89.0,865,33.781915125,-84.36225925,1879.0
+151,Atlanta Public Schools,Sarah Smith Elementary School,E,370 Old Ivy Rd NE,Atlanta,30342,B,89.7,866,33.85832675,-84.37531795224857,1363.0
+152,Atlanta Public Schools,Hope-Hill Elementary School,E,112 Boulevard NE,Atlanta,30312,C,79.9,867,33.757537,-84.372209,3584.0
+153,Atlanta Public Schools,Gideons Elementary School,E,897 Welch St SW,Atlanta,30310,F,55.0,868,33.7306468,-84.4054508,1838.0
+154,Atlanta Public Schools,West Manor Elementary School,E,570 Lynhurst Dr SW,Atlanta,30311,D,69.7,869,33.7398296,-84.48965279999999,482.0
+155,Atlanta Public Schools,Alonzo A. Crim Open Campus High School,H,256 Clifton St SE,Atlanta,30317,F,29.2,870,33.74657355196568,-84.33174321355287,864.0
+156,Atlanta Public Schools,Peyton Forest Elementary School,E,301 Peyton Rd SW,Atlanta,30311,C,70.5,873,33.74783370000001,-84.47645990000002,587.0
+157,Atlanta Public Schools,Sutton Middle School,M,2875 Northside Dr NW,Atlanta,30305,B,82.8,874,33.832556,-84.40691756825423,113.0
+158,Atlanta Public Schools,Scott Elementary School,E,1752 Hollywood Rd NW,Atlanta,30318,F,55.0,876,33.8029512,-84.47039659999999,345.0
+159,Atlanta Public Schools,Cleveland Avenue Elementary School,E,2672 Old Hapeville Rd SW,Atlanta,30315,D,65.5,877,33.68281605,-84.39216701116834,661.0
+160,Atlanta Public Schools,Frederick Douglass High School ,H,225 Hamilton E Holmes Dr NW,Atlanta,30318,F,48.7,878,33.766561,-84.470118,692.0
+161,Atlanta Public Schools,M. Agnes Jones Elementary School,E,1040 Fair St SW,Atlanta,30314,F,54.2,879,33.748415699999995,-84.42206507587375,2086.0
+162,Atlanta Public Schools,Slater Elementary School,E,1320 Pryor Rd SW,Atlanta,30315,F,52.7,880,33.71919369387755,-84.39330222448979,1235.0
+163,Atlanta Public Schools,Henry W. Grady High School ,H,929 Charles Allen Dr NE,Atlanta,30309,B,81.7,881,33.7810927,-84.37213944591403,2930.0
+164,Atlanta Public Schools,Frederick Wilson Benteen Elementary School,E,200 Cassanova St SE,Atlanta,30315,D,64.5,882,33.716468799999994,-84.36439157865456,701.0
+165,Atlanta Public Schools,D. H. Stanton Elementary School,E,970 Martin St SE,Atlanta,30315,C,71.4,883,33.7281626,-84.3829821,1154.0
+166,Atlanta Public Schools,Thomasville Heights Elementary School,E,1820 Henry Thomas Dr SE,Atlanta,30315,F,43.0,884,33.703742299999995,-84.35592679999998,498.0
+167,Atlanta Public Schools,Dunbar Elementary School,E,500 Whitehall Terrace SW,Atlanta,30312,F,58.4,885,33.739427,-84.401288,2283.0
+168,Atlanta Public Schools,Humphries Elementary School,E,3029 Humphries Dr SE,Atlanta,30354,F,56.0,886,33.67204955,-84.37635318230872,342.0
+169,Atlanta Public Schools,Frank Lebby Stanton Elementary School,E,1625 Martin Luther King Jr Dr SW,Atlanta,30314,C,70.9,887,33.7533919,-84.43868034708501,1026.0
+170,Atlanta Public Schools,Fred A. Toomer Elementary School,E,65 Rogers St NE,Atlanta,30317,F,51.9,888,33.755395347222226,-84.3292941736111,840.0
+171,City Schools of Decatur,Renfroe Middle School,M,220 W College Ave,Decatur,30030,B,82.5,891,33.76869918367347,-84.29912136734694,31.0
+173,State Charter School,"Ivy Preparatory Academy, Inc",EM,1807 Memorial Dr SE,Atlanta,30317,D,67.4,898,33.747333000000005,-84.32825283333334,759.0
+175,State Charter School,Genesis Innovation Academy for Boys,EM,1049 Custer Ave SE,Atlanta,30316,F,58.1,905,33.71622824795079,-84.35492697276541,410.0
+176,State Charter School,Genesis Innovation Academy for Girls,EM,1049 Custer Ave SE,Atlanta,30316,F,50.5,906,33.71622824795079,-84.35492697276541,410.0
